@@ -1,6 +1,6 @@
 # pgm_segment
 pgm segmentation
 
-#dependencies
+# dependencies
 python3-numpy
 python3
