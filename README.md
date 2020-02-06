@@ -2,5 +2,7 @@
 pgm segmentation
 
 # dependencies
+
 python3-numpy
+
 python3
